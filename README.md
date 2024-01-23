@@ -17,7 +17,7 @@ Step 3. Convert data to netbox import format columns
 
 Step 4. Export excel file to csv file 
 
-Step 5. Open file with sublime text application 
+Step 5. Open file with Sublime Text application 
 
 Step 6. Reformat the CSV file to meet the demands of the netbox Fieldoptions import format. This is de Fieldoptions format for 'racks'. Site, regions, rackroles etc. do have different Fieldoption formats.
 
