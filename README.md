@@ -11,7 +11,7 @@ Step 1: In netbox export data to csv file (my example 'Racks')
 Step 2. import data in excel  
 
 Step 3. convert data to netbox import format  collum's
-(https://www.howtogeek.com/407217/how-to-use-text-to-columns-like-an-excel-pro/#text-to-columns-with-delimited-text)In step 2 select 'Comma'.
+(https://www.howtogeek.com/407217/how-to-use-text-to-columns-like-an-excel-pro/#text-to-columns-with-delimited-text)In step 2 select 'Comma'. Each comma corresponds with an emtpy collumn.
 
 Step 4. export excel file to csv file 
 
