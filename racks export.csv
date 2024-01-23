@@ -1,0 +1,78 @@
+Name,Site,Location,Status,Facility ID,Tenant,Role,Height,Devices,Space,ID,Tenant Group,Serial number,Asset tag,Type,Starting unit,Width,Outer Width,Outer Depth,Mounting depth,Weight,Max Weight,Comments,Power,Description,Contacts,Tags,Created,Last updated
+
+MER1B-A01,VUmc,MER1B,Active,,,Network Infrastructure,42U,0,0.0%,5,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 09:49,2023-10-13 09:49
+MER1B-A02,VUmc,MER1B,Active,,,Server Infrastructure,42U,0,0.0%,6,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 09:59,2023-10-13 10:00
+MER1B-A03,VUmc,MER1B,Active,,,Virtualization,42U,0,0.0%,7,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 09:59,2023-10-13 10:06
+MER1B-A04,VUmc,MER1B,Active,,,Virtualization,42U,0,0.0%,10,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 10:11,2023-10-13 10:11
+MER1B-A05,VUmc,MER1B,Active,,,Virtualization,42U,0,0.0%,9,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 10:10,2023-10-13 10:10
+MER1B-A06,VUmc,MER1B,Active,,,Server Infrastructure,42U,0,0.0%,11,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 10:19,2023-10-13 10:19
+MER1B-A07,VUmc,MER1B,Active,,,Oneview Nutanix,42U,0,0.0%,12,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 10:19,2023-10-13 10:19
+MER1B-A08,VUmc,MER1B,Active,,,Server Infrastructure,42U,0,0.0%,13,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 10:20,2023-10-13 10:20
+MER1B-A09,VUmc,MER1B,Active,,,Telecom,42U,0,0.0%,14,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,Grosz,,,2023-10-13 10:21,2023-10-13 10:21
+MER1B-B10,VUmc,MER1B,Active,,,Storage,42U,0,0.0%,15,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,PACS,,,2023-10-13 10:22,2023-10-13 10:22
+MER1B-B11,VUmc,MER1B,Active,,,Server Infrastructure,42U,0,0.0%,16,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,Xerox,,,2023-10-13 10:22,2023-10-13 10:22
+MER1B-B12,VUmc,MER1B,Active,,,Oneview Nutanix,42U,0,0.0%,17,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 10:24,2023-10-13 10:24
+MER1B-B13,VUmc,MER1B,Available,,,None,42U,0,0.0%,19,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 10:39,2023-10-13 10:39
+MER1B-B14,VUmc,MER1B,Available,,,None,42U,0,0.0%,20,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 10:40,2023-10-13 10:40
+MER1B-B15,VUmc,MER1B,Available,,,None,42U,0,0.0%,21,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 10:41,2023-10-13 10:42
+MER1B-B16,VUmc,MER1B,Active,,,Storage,42U,0,0.0%,18,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,Storage VMware,,,2023-10-13 10:25,2023-10-13 10:43
+MER1B-B17,VUmc,MER1B,Active,,,Server Infrastructure,42U,0,0.0%,22,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 10:43,2023-10-13 10:43
+MER1B-B18,VUmc,MER1B,Active,,,Oneview Nutanix,42U,0,0.0%,23,,,,4-post cabinet,1,19 inches,None,None,100,,,,0%,,,,2023-10-13 10:44,2023-10-13 10:44
+MER1C-A01,VUmc,MER1C,Available,,,None,42U,0,0.0%,24,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 10:45,2023-10-13 10:45
+MER1C-A02,VUmc,MER1C,Available,,,None,42U,0,0.0%,25,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 10:47,2023-10-13 10:47
+MER1C-A03,VUmc,MER1C,Active,,,Oneview Nutanix,42U,0,0.0%,26,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 10:48,2023-10-13 10:48
+MER1C-A04,VUmc,MER1C,Available,,,None,42U,0,0.0%,27,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 10:49,2023-10-13 10:49
+MER1C-A05,VUmc,MER1C,Active,,,Network Infrastructure,42U,0,0.0%,28,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 10:50,2023-10-13 10:50
+MER1C-A06,VUmc,MER1C,Active,,,Oneview Nutanix,42U,0,0.0%,29,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 10:58,2023-10-13 10:58
+MER1C-A07,VUmc,MER1C,Active,,,Virtualization,42U,0,0.0%,30,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:00,2023-10-13 11:00
+MER1C-A08,VUmc,MER1C,Active,,,Virtualization,42U,0,0.0%,31,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:01,2023-10-13 11:01
+MER1C-A09,VUmc,MER1C,Active,,,Server Infrastructure,42U,0,0.0%,32,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:02,2023-10-13 11:02
+MER1C-B10,VUmc,MER1C,Available,,,None,42U,0,0.0%,33,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:02,2023-10-13 11:02
+MER1C-B11,VUmc,MER1C,Active,,,Server Infrastructure,42U,0,0.0%,34,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:03,2023-10-13 11:03
+MER1C-B12,VUmc,MER1C,Active,,,Oneview Nutanix,42U,0,0.0%,35,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:03,2023-10-13 11:03
+MER1C-B13,VUmc,MER1C,Active,,,Oneview Nutanix,42U,0,0.0%,36,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:04,2023-10-13 11:04
+MER1C-B14,VUmc,MER1C,Active,,,Network Infrastructure,42U,0,0.0%,37,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:04,2023-10-13 11:04
+MER1C-B15,VUmc,MER1C,Active,,,Storage,42U,0,0.0%,38,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:05,2023-10-13 11:05
+MER1C-B16,VUmc,MER1C,Active,,,Storage,42U,0,0.0%,39,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:06,2023-10-13 11:06
+MER1C-B17,VUmc,MER1C,Active,,,Server Infrastructure,42U,0,0.0%,40,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,Aria / Ethos RTH,,,2023-10-13 11:07,2023-10-13 11:07
+MER1C-B18,VUmc,MER1C,Active,,,Storage,42U,0,0.0%,41,,,,4-post cabinet,1,19 inches,None,None,1200,,,,0%,,,,2023-10-13 11:07,2023-10-13 12:48
+MER2A-A01,VUmc,MER2A,Active,,,Network Infrastructure,45U,0,0.0%,42,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:13,2023-10-13 11:13
+MER2A-A02,VUmc,MER2A,Active,,,Network Infrastructure,45U,0,0.0%,43,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:14,2023-10-13 11:14
+MER2A-A03,VUmc,MER2A,Active,,,Network Infrastructure,45U,0,0.0%,44,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:14,2023-10-13 11:14
+MER2A-A04,VUmc,MER2A,Active,,,Network Infrastructure,45U,0,0.0%,45,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:15,2023-10-13 11:15
+MER2B-A01,VUmc,MER2B,Active,,,Network Infrastructure,42U,0,0.0%,62,,,,,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:46,2023-10-13 12:46
+MER2B-A02,VUmc,MER2B,Active,,,Server Infrastructure,42U,0,0.0%,63,,,,,1,19 inches,None,None,1000,,,,0%,,,,2023-10-13 12:49,2023-10-13 12:49
+MER2B-A03,VUmc,MER2B,Active,,,Virtualization,42U,0,0.0%,64,,,,,1,19 inches,None,None,1000,,,,0%,,,,2023-10-13 12:50,2023-10-13 12:50
+MER2B-A04,VUmc,MER2B,Active,,,Virtualization,42U,0,0.0%,65,,,,,1,19 inches,None,None,1000,,,,0%,,,,2023-10-13 12:50,2023-10-13 12:50
+MER2B-A05,VUmc,MER2B,Active,,,Virtualization,42U,0,0.0%,66,,,,,1,19 inches,None,None,1000,,,,0%,,,,2023-10-13 12:51,2023-10-13 12:51
+MER2B-B06,VUmc,MER2B,Active,,,Oneview Nutanix,42U,0,0.0%,67,,,,,1,19 inches,None,None,1000,,,,0%,,,,2023-10-13 12:51,2023-10-13 12:51
+MER2B-B07,VUmc,MER2B,Active,,,Server Infrastructure,42U,0,0.0%,68,,,,,1,19 inches,None,None,1000,,,,0%,,,,2023-10-13 12:51,2023-10-13 12:51
+MER2B-B08,VUmc,MER2B,Active,,,Server Infrastructure,42U,0,0.0%,69,,,,,1,19 inches,None,None,1000,,,,0%,,,,2023-10-13 12:52,2023-10-13 12:52
+MER2B-B09,VUmc,MER2B,Active,,,Telecom,42U,0,0.0%,70,,,,,1,19 inches,None,None,1000,,,,0%,,,,2023-10-13 12:52,2023-10-13 12:52
+MER2B-B10,VUmc,MER2B,Active,,,Storage,42U,0,0.0%,71,,,,,1,19 inches,None,None,1000,,,,0%,PACS,,,2023-10-13 12:54,2023-10-13 12:54
+MER2B-C11,VUmc,MER2B,Active,,,Oneview Nutanix,42U,0,0.0%,72,,,,,1,19 inches,None,None,1000,,,,0%,,,,2023-10-13 12:55,2023-10-13 12:55
+MER2B-C12,VUmc,MER2B,Active,,,Storage,42U,0,0.0%,73,,,,,1,19 inches,None,None,1200,,,,0%,,,,2023-10-13 12:56,2023-10-13 12:56
+MER2B-C13,VUmc,MER2B,Active,,,Storage,42U,0,0.0%,74,,,,,1,19 inches,None,None,1200,,,,0%,,,,2023-10-13 12:57,2023-10-13 12:57
+MER2B-C14,VUmc,MER2B,Active,,,Storage,42U,0,0.0%,75,,,,,1,19 inches,None,None,1000,,,,0%,,,,2023-10-13 12:58,2023-10-13 12:59
+MER2B-C15,VUmc,MER2B,Available,,,None,42U,0,0.0%,76,,,,,1,19 inches,None,None,1000,,,,0%,,,,2023-10-13 13:00,2023-10-16 09:06
+MER2B-C16,VUmc,MER2B,Active,,,Network Infrastructure,42U,0,0.0%,77,,,,,1,19 inches,None,None,1000,,,,0%,,,,2023-10-13 13:00,2023-10-13 13:00
+MER2C-A01,VUmc,MER2C,Active,,,Oneview Nutanix,42U,0,0.0%,46,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:15,2023-10-13 12:08
+MER2C-A02,VUmc,MER2C,Available,,,None,42U,0,0.0%,47,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 11:18,2023-10-13 12:09
+MER2C-A03,VUmc,MER2C,Active,,,Storage,42U,0,0.0%,48,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:06,2023-10-13 12:10
+MER2C-A04,VUmc,MER2C,Active,,,Storage,42U,0,0.0%,49,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:06,2023-10-13 12:07
+MER2C-A05,VUmc,MER2C,Active,,,Network Infrastructure,42U,0,0.0%,50,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:07,2023-10-13 12:07
+MER2C-A06,VUmc,MER2C,Active,,,Oneview Nutanix,42U,0,0.0%,51,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:12,2023-10-13 12:12
+MER2C-A07,VUmc,MER2C,Active,,,Virtualization,42U,0,0.0%,52,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:13,2023-10-13 12:13
+MER2C-A08,VUmc,MER2C,Available,,,None,42U,0,0.0%,53,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:13,2023-10-13 12:13
+MER2C-B09,VUmc,MER2C,Active,,,Server Infrastructure,42U,0,0.0%,54,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,Aria / Ethos RTH,,,2023-10-13 12:14,2023-10-13 12:16
+MER2C-B10,VUmc,MER2C,Available,,,None,42U,0,0.0%,55,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:15,2023-10-13 12:15
+MER2C-B11,VUmc,MER2C,Active,,,Virtualization,42U,0,0.0%,56,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:17,2023-10-13 12:31
+MER2C-B12,VUmc,MER2C,Active,,,Network Infrastructure,42U,0,0.0%,57,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:29,2023-10-13 12:32
+MER2C-B13,VUmc,MER2C,Active,,,Oneview Nutanix,42U,0,0.0%,58,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:30,2023-10-13 12:32
+MER2C-B14,VUmc,MER2C,Available,,,None,42U,0,0.0%,59,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:31,2023-10-13 12:31
+MER2C-B15,VUmc,MER2C,Active,,,Server Infrastructure,42U,0,0.0%,60,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,PACS,,,2023-10-13 12:41,2023-10-13 12:41
+MER2C-B16,VUmc,MER2C,Active,,,Oneview Nutanix,42U,0,0.0%,61,,,,4-post cabinet,1,19 inches,None,None,,,,,0%,,,,2023-10-13 12:42,2023-10-13 12:42
+MER3-A01,VUmc,MER3,Active,,,Server Infrastructure,42U,0,0.0%,78,,,,,1,19 inches,None,None,,,,,0%,,,,2023-10-16 09:07,2023-10-16 09:07
+MER3-A02,VUmc,MER3,Available,,,Server Infrastructure,42U,0,0.0%,79,,,,,1,19 inches,None,None,,,,,0%,,,,2023-10-16 09:08,2023-10-16 09:25
+MER3-A03,VUmc,MER3,Available,,,None,42U,0,0.0%,80,,,,,1,19 inches,None,None,,,,,0%,,,,2023-10-16 09:08,2023-10-16 09:24
+MER3-A04,VUmc,MER3,Available,,,None,42U,0,0.0%,81,,,,,1,19 inches,None,None,,,,,0%,,,,2023-10-16 09:09,2023-10-16 09:23
