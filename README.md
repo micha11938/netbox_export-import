@@ -1,5 +1,5 @@
 # netbox_export-import
-In this file Is how I import data in netbox with the export / import feature. 
+In this file I show I import data in netbox with the export / import feature. 
 
 Maybe this could save other people a bit of time because it's quite a bit of work before the data is ready for importing in netbox. And besides that I wonder if there is a quicker way to do this. 
 What I did was export data from a running netbox application in Docker (I have a few running for test purposes) and after formatting the data in several steps import the data in a running acceptation and production environment.  
