@@ -12,14 +12,14 @@ Step 1: In netbox export data to csv file (my example 'Racks')
 
 Step 2. Import data into excel  
 
-Step 3. Convert data to netbox import format  collum's
-(https://www.exceldemy.com/split-column-in-excel-by-comma/) Each comma in the export file, corresponds with an emtpy collumn.
+Step 3. Convert data to netbox import format columns
+(https://www.exceldemy.com/split-column-in-excel-by-comma/) Each comma in the export file, corresponds with an emtpy column.
 
 Step 4. Export excel file to csv file 
 
 Step 5. Open file with sublime text application 
 
-Step 6. Reformat the CSV file to meet the demands of the netbox Fieldoptions import format. This is de Fieldoptios format for 'racks'. Site, regions, rackroles etc. do have different Fieldoption formats.
+Step 6. Reformat the CSV file to meet the demands of the netbox Fieldoptions import format. This is de Fieldoptions format for 'racks'. Site, regions, rackroles etc. do have different Fieldoption formats.
 
 Step 7. Import the data file into netbox and even then, mostly you will have to correct quite a few errors because the data nextbox exported mostly does not match with the demands of netbox. 
 
